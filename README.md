@@ -1,5 +1,5 @@
 <h2>
-  🚀 Grocery Fuirt 
+  🚀 Grocery Fruits
 </h2> 
 
 <h4>APP to add, edit, and remove items from local storage</h4>
