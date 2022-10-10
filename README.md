@@ -5,7 +5,7 @@
 <h4>APP to add, edit, and remove items from local storage</h4>
 <h4> :memo: Summary</h4>
 <h4>select item</h4>
-<h4>event liateners</h4>
+<h4>event listeners</h4>
 <h4>functions </h4>
 <h4>Local storage API</h4>
 <h4>set, get, remove items</h4>
